@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Carlos Henrique 🖐️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-b150101b8/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chhenriquee/)<br>
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Chhenriquee&show_icons=true&theme=dracula&count_private=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhenriquee&hide_progress=true&theme=dracula&count_private=true)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Chhenriquee&show_icons=true&theme=dracula&count_private=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chhenriquee&layout=compact&theme=dracula&count_private=true)
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
